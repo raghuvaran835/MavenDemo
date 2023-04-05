@@ -1,0 +1,2 @@
+11:47:16.500 [main] ERROR demotest.Log4JExample - It is error
+11:47:16.510 [main] FATAL demotest.Log4JExample - It is fatal
